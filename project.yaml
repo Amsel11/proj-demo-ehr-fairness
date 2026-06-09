@@ -6,9 +6,13 @@ description: >-
   We propose a reweighting-based mitigation that closes the largest disparities
   while preserving overall discrimination, evaluated on MIMIC-IV and a community
   hospital cohort.
+lead: Annelene Schulze
 contributors:
-  - Annelene Schulze
-  - EKO
+  - Mickey Mouse
+  - Minnie Mouse
+  - Donald Duck
+  - Goofy
+  - Daisy Duck
 venue: FAccT 2026
 deadline: '2026-09-01'
 open_to_collaborators: true
