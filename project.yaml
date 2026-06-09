@@ -1,0 +1,20 @@
+name: Auditing Algorithmic Fairness in EHR Mortality Models
+status: writing
+description: >-
+  A systematic audit of subgroup calibration and error-rate disparities across
+  race, sex, and insurance status in widely deployed EHR mortality risk scores.
+  We propose a reweighting-based mitigation that closes the largest disparities
+  while preserving overall discrimination, evaluated on MIMIC-IV and a community
+  hospital cohort.
+contributors:
+  - Annelene Schulze
+  - David Okafor
+venue: FAccT 2026
+deadline: '2026-09-01'
+open_to_collaborators: true
+needed_skills:
+  - fairness / bias auditing
+  - biostatistics
+  - EHR data wrangling
+slack_channel: project-ehr-fairness
+github_repo: annelene/proj-demo-ehr-fairness
